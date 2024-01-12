@@ -1,5 +1,8 @@
 {
     "app_id_1": {
+        "id": "app_id_1",
+        "flag": false,
+        "percent": 50,
         "banner": {
             "link": "store-url",
             "image": "image-url"
@@ -14,6 +17,9 @@
         }
     },
     "app_id_2": {
+        "id": "app_id_1",
+        "flag": false,
+        "percent": 50,
         "banner": {
             "link": "store-url",
             "image": "image-url"
