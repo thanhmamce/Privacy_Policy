@@ -2,29 +2,29 @@
     "app_id_1": {
         "banner": {
             "link": "store-url",
-            "image": "image-url",
+            "image": "image-url"
         },
         "small": {
             "link": "store-url",
-            "image": "image-url",
+            "image": "image-url"
         },
         "medium": {
             "link": "store-url",
-            "image": "image-url",
+            "image": "image-url"
         }
     },
     "app_id_2": {
         "banner": {
             "link": "store-url",
-            "image": "image-url",
+            "image": "image-url"
         },
         "small": {
             "link": "store-url",
-            "image": "image-url",
+            "image": "image-url"
         },
         "medium": {
             "link": "store-url",
-            "image": "image-url",
+            "image": "image-url"
         }
     }
 }
